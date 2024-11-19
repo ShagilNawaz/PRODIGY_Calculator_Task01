@@ -74,6 +74,7 @@ The result will show 4.
 Known Issues
 The expression evaluator currently only handles simple arithmetic expressions (no parentheses or advanced operations).
 Division by zero may cause unexpected behavior or an error message.
+
 Future Enhancements
 Improved Expression Evaluation: Add support for more complex expressions, such as parentheses, decimal numbers, and scientific operations.
 Better Error Handling: Improve error handling for invalid inputs or edge cases (e.g., division by zero).
