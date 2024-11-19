@@ -1,6 +1,6 @@
 # Basic Calculator
 
-A simple calculator web app that allows you to perform basic arithmetic operations. Try out the [Calculator](https://jaizzer.github.io/calculator/) live!
+A simple calculator web app that allows you to perform basic arithmetic operations. 
 
 ## Features
 
@@ -12,7 +12,6 @@ A simple calculator web app that allows you to perform basic arithmetic operatio
 
 ## Usage
 
-1. Visit the [Jaizzer Calculator](https://jaizzer.github.io/calculator/) live page.
 2. Click on the number buttons to input your calculations.
 3. Click on the operation buttons to select the desired operation.
 4. Click on the equal button (`=`) to see the result.
