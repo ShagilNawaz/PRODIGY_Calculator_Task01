@@ -1,4 +1,5 @@
 Android Basic Arithmetic Calculator
+
 This is a simple Android application that functions as a basic arithmetic calculator. It supports basic arithmetic operations like addition, subtraction, multiplication, and division. Users can input their calculations, and the app will display the result.
 
 Features
@@ -75,7 +76,12 @@ Known Issues
 The expression evaluator currently only handles simple arithmetic expressions (no parentheses or advanced operations).
 Division by zero may cause unexpected behavior or an error message.
 
+
 Future Enhancements
 Improved Expression Evaluation: Add support for more complex expressions, such as parentheses, decimal numbers, and scientific operations.
 Better Error Handling: Improve error handling for invalid inputs or edge cases (e.g., division by zero).
 UI/UX Enhancements: Add themes or animations to enhance user experience.
+
+
+
+
